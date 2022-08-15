@@ -1,0 +1,10 @@
+@media(max-width:612px){
+  nav .tugma{
+      display: none;
+  }
+
+  .burger{
+      display: block;
+      background: #000;
+  }
+}
